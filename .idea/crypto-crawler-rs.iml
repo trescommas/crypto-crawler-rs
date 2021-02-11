@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/crypto-ws-client/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crypto-ws-client/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crypto-ws-client/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/crypto-ws-client/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/crypto-rest-client/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crypto-rest-client/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crypto-rest-client/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/crypto-rest-client/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/crypto-pair/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crypto-pair/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crypto-pair/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/crypto-pair/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/crypto-markets/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crypto-markets/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crypto-markets/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/crypto-markets/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/crypto-client/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crypto-client/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crypto-client/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/crypto-client/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/crypto-crawler/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crypto-crawler/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crypto-crawler/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/crypto-crawler/benches" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/crypto-client/target" />
+      <excludeFolder url="file://$MODULE_DIR$/crypto-crawler/target" />
+      <excludeFolder url="file://$MODULE_DIR$/crypto-markets/target" />
+      <excludeFolder url="file://$MODULE_DIR$/crypto-pair/target" />
+      <excludeFolder url="file://$MODULE_DIR$/crypto-rest-client/target" />
+      <excludeFolder url="file://$MODULE_DIR$/crypto-ws-client/target" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
